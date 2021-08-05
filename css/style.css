@@ -613,7 +613,7 @@ h1.logo a.navbar-brand {
 }
 
 .banner {
-	background: url(../images/www.png) no-repeat 0px 0px;
+	background: url(../images/DSC_3525.JPG) no-repeat 0px 0px;
 	/* background-color: #a583ce; */
 	background-size: cover;
 	filter: blur(1);
@@ -717,7 +717,7 @@ a.animated-button.victoria-two {
 }
 
 a.animated-button.victoria-two:after {
-	background: #000000;
+	background: #a583ce;
 	-moz-transform: translateX(-50%) translateY(-50%) rotate(25deg);
 	-ms-transform: translateX(-50%) translateY(-50%) rotate(25deg);
 	-webkit-transform: translateX(-50%) translateY(-50%) rotate(25deg);
@@ -1484,7 +1484,7 @@ h5#exampleModalLongTitle {
 	height: 48px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/top_up.png) no-repeat 0px 0px;
+	background: url(../images/up.png) no-repeat 0px 0px;
 }
 
 /*--// copyright-- */
